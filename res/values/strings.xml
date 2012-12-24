@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">Humanity+ Reader</string>
+    <string name="app_title">Humanity+ Magazine RSS Feed Reader</string>
+    <string name="app_description">Stay up to date with the latest articles from the Humanity+ Magazine!</string>
+    <string name="email">Email: info@hplusmagazine.com</string>
+    <string name="website">http://hplusmagazine.com</string>
+
+</resources>

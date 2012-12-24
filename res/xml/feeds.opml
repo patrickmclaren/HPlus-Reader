@@ -1,0 +1,8 @@
+<opml version="1.0">
+    <head>
+        <title>Your Subscriptions</title>
+    </head>
+    <body>
+        <outline text="Humanity+" title="Humanity+ Magazine" htmlUrl="http://hplusmagazine.com" xmlUrl="http://hplusmagazine.com/feed" type="rss"/>
+    </body>
+</opml>
